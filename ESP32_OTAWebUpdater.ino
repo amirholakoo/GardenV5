@@ -5,8 +5,8 @@
 #include <Update.h>
 
 const char* host = "esp32";
-const char* ssid = "VPN1";
-const char* password = "09126141426";
+const char* ssid = "XXX";
+const char* password = "XXX";
 
 WebServer server(80);
 
