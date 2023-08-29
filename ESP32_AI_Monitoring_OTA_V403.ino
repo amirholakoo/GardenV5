@@ -21,8 +21,8 @@
 
 // Replace with your network credentials
 const char* host = "esp32";
-const char* ssid = "VPN1";
-const char* password = "09126141426";
+const char* ssid = "XXX";
+const char* password = "XXX";
 int moist_count = 0;
 int dry_count = 0;
 int germination_count = 0;
